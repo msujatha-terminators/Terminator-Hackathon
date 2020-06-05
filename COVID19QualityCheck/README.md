@@ -74,7 +74,7 @@ About one week
 
 ##Likelihood of success: 
 
-![Video transcription/translation app](https://github.com/msujatha-terminators/Terminator-Hackathon/tree/master/COVID19QualityCheck/src/main/resources/static/imp/piechart.png)
+![Video transcription/translation app](https://github.com/msujatha-terminators/Terminator-Hackathon/tree/master/COVID19QualityCheck/src/main/resources/static/img/piechart.png)
 
 
 ## Demo video
@@ -83,7 +83,6 @@ About one week
 
 ## Final Images of the project [UI] 
 
-![Video transcription/translation app](https://github.com/msujatha-terminators/Terminator-Hackathon/tree/master/COVID19QualityCheck/src/main/resources/static/imp/first.png)
-![Video transcription/translation app](https://github.com/msujatha-terminators/Terminator-Hackathon/tree/master/COVID19QualityCheck/src/main/resources/static/imp/second.png)
-
+![Video transcription/translation app](https://github.com/msujatha-terminators/Terminator-Hackathon/tree/master/COVID19QualityCheck/src/main/resources/static/img/first.png)
+![Video transcription/translation app](https://github.com/msujatha-terminators/Terminator-Hackathon/tree/master/COVID19QualityCheck/src/main/resources/static/img/second.png)
 
