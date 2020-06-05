@@ -74,7 +74,7 @@ About one week
 
 ##Likelihood of success: 
 
-![Video transcription/translation app](https://github.com/msujatha-terminators/Terminator-Hackathon/blob/master/COVID19QualityCheck/src/main/resources/static/img/piechart.png)
+![Video transcription/translation app](https://github.com/msujatha-terminators/Terminator-Hackathon/blob/master/COVID19QualityCheck/src/main/resources/static/img/piechart.PNG)
 
 
 ## Demo video
