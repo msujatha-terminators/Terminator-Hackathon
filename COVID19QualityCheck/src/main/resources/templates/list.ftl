@@ -165,14 +165,14 @@
 		             <tr>
 		                <td>1</td>
 		                <td>Sujatha</td>
-		                <td>starBugs</td>
+		                <td>starBucks</td>
 		                <td>10</td>
 		                <td><button type="button" ng-click="ctrl.removeFeedback(u.id)" class="btn btn-danger custom-width">Remove</button></td>
 		            </tr>
 		            <tr>
 		                <td>2</td>
 		                <td>Sujatha</td>
-		                <td>Bank</td>
+		                <td>hospital</td>
 		                <td>8</td>
 		                <td><button type="button" ng-click="ctrl.removeFeedback(u.id)" class="btn btn-danger custom-width">Remove</button></td>
 		            </tr>

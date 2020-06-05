@@ -1,7 +1,8 @@
 package com.hackathon.terminators.controller;
 
-import java.util.List;
-
+import com.hackathon.terminators.model.Feedback;
+import com.hackathon.terminators.service.FeedbackService;
+import com.hackathon.terminators.util.CustomErrorType;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
@@ -15,9 +16,7 @@ import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.util.UriComponentsBuilder;
 
-import com.hackathon.terminators.model.Feedback;
-import com.hackathon.terminators.service.FeedbackService;
-import com.hackathon.terminators.util.CustomErrorType;
+import java.util.List;
 
 
 @RestController
@@ -88,8 +87,6 @@ public class RestApiController {
 		}
 
 		currentFeedback.setName(feedback.getName());
-		currentFeedback.setAge(feedback.getAge());
-		currentFeedback.setSalary(feedback.getSalary());
 
 		feedbackService.updateFeedback(currentFeedback);
 		return new ResponseEntity<Feedback>(currentFeedback, HttpStatus.OK);
