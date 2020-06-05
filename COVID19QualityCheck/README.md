@@ -17,7 +17,7 @@ Submitter’s name:  Sujatha Mekala
 1. [short description](#hort-description)
 1. [Hypothesis](#Hypothesis)
 1. [Statement of the problem](#statement-of-problem)
-1. [Detailed description](#Detailed description)
+1. [Detailed description](#detaileddescription)
 1. [Impact of this solution](#impactofsolution)
 1. [Goals accomplished](#goals-accomplished)
 1. [Variation from other solutions](#variation-from-other-solutions)
