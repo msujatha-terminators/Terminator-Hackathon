@@ -82,6 +82,7 @@ Please download the video to play!
 
 [![Watch the video](https://github.com/msujatha-terminators/Terminator-Hackathon/blob/master/COVID19QualityCheck/src/main/resources/static/img/play.PNG)](https://github.com/msujatha-terminators/Terminator-Hackathon/blob/master/COVID19QualityCheck/src/main/resources/static/img/Quality-Check_PPT.mp4)
 
+
 ## Final Images of the project [UI] 
 
 ![Video transcription/translation app](https://github.com/msujatha-terminators/Terminator-Hackathon/blob/master/COVID19QualityCheck/src/main/resources/static/img/first.png)
